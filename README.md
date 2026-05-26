@@ -8,7 +8,7 @@ Streamlit App:
 https://banking-support-ai-agent-fxuybvqgjtvjcypmurytiu.streamlit.app/
 ---
 ## GitHub Repository
-https://github.com/mbasci/banking-support-ai
+https://github.com/mbasci/banking-support-ai-agent
 ---
 
 ## Overview
