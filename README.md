@@ -72,7 +72,7 @@ banking-support-ai/
 
 Clone repository:
 
-git clone https://github.com/YOUR_USERNAME/banking-support-ai.git
+git clone https://github.com/mbasci/banking-support-ai.git
 
 cd banking-support-ai
 
