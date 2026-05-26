@@ -2,7 +2,13 @@
 # Banking Customer Support AI Agent
 
 AI-powered multi-agent banking support system built with Python, SQLite, and Streamlit.
-
+---
+## Live Demo
+Streamlit App:
+https://banking-support-ai-agent-fxuybvqgjtvjcypmurytiu.streamlit.app/
+---
+## GitHub Repository
+https://github.com/YOUR_USERNAME/banking-support-ai
 ---
 
 ## Overview
