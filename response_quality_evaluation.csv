@@ -1,0 +1,7 @@
+message,classification,response,empathy_score,clarity_score,actionability_score,total_score,max_score
+Thanks for resolving my credit card issue.,Positive Feedback,"Thank you for your kind words, Evaluation Customer! We’re delighted to assist you.",1,0,0,1,3
+"Thank you, the service was excellent.",Positive Feedback,"Thank you for your kind words, Evaluation Customer! We’re delighted to assist you.",1,0,0,1,3
+My debit card replacement still hasn't arrived.,Negative Feedback,"We apologize for the inconvenience. A new ticket #314416 has been generated, and our team will follow up shortly.",1,1,1,3,3
+I am frustrated because my account login is not working.,Negative Feedback,"We apologize for the inconvenience. A new ticket #335232 has been generated, and our team will follow up shortly.",1,1,1,3,3
+Could you check the status of ticket 650932?,Query,Your ticket #650932 is currently marked as: Resolved.,0,1,0,1,3
+What is the update on ticket 123456?,Query,We could not find ticket #123456. Please verify the ticket number and try again.,0,1,0,1,3

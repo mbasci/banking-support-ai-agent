@@ -1,0 +1,3 @@
+ticket_number,customer_name,issue_text,status,created_at,updated_at
+650932,Sample Customer,Sample issue for testing ticket lookup.,Resolved,2026-05-26 11:24:17,2026-05-26 11:24:17
+295653,Ben,My debit card replacement still hasn't arrived.,Unresolved,2026-05-26 11:24:12,2026-05-26 11:24:12

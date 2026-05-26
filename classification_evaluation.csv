@@ -1,0 +1,7 @@
+message,expected,predicted,confidence,reason,correct
+Thanks for resolving my credit card issue.,Positive Feedback,Positive Feedback,0.85,Detected positive sentiment keywords.,True
+"Thank you, the service was excellent.",Positive Feedback,Positive Feedback,0.85,Detected positive sentiment keywords.,True
+My debit card replacement still hasn't arrived.,Negative Feedback,Negative Feedback,0.85,Detected complaint or negative sentiment keywords.,True
+I am frustrated because my account login is not working.,Negative Feedback,Negative Feedback,0.85,Detected complaint or negative sentiment keywords.,True
+Could you check the status of ticket 650932?,Query,Query,0.95,Detected ticket number and query/status intent.,True
+What is the update on ticket 123456?,Query,Query,0.95,Detected ticket number and query/status intent.,True

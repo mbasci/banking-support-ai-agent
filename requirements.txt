@@ -1,0 +1,8 @@
+streamlit
+requests
+pandas
+tavily-python
+langchain
+langchain-openai
+langchain-core
+langgraph
